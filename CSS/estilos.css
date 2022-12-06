@@ -1,10 +1,24 @@
 body
 {
-    color:rgb(187, 94, 94);
+    color:rgb(43, 38, 38);
     text-align: center;
     font-family: "Arial";
 }
-
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px  20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: o;
+    padding: 0.5em;
+}
+#caberca #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.0em;
+}
 #container
 {
     width: 70%;
