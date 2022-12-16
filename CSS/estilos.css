@@ -1,12 +1,12 @@
 body
 {
-<<<<<<< HEAD
-    color:rgb(65, 76, 180);
-=======
-    color:rgb(163, 55, 55);
->>>>>>> caberca
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: "Times New Roman";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 #cabecera
 {
@@ -16,6 +16,11 @@ body
     font-weight: bold;
     margin: o;
     padding: 0.5em;
+}
+#caberca #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 #caberca #tagline
 {
@@ -35,4 +40,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
