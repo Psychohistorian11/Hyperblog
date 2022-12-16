@@ -1,5 +1,5 @@
 # hyperblog ♥
-Un blog diseñado ... diseañdo a partir del cursos de Git y Github de Platzi
+Un blog diseñado a partir del cursos de Git y Github de Platzi
 >El curso de Git y Github de Platzi ha sido muy util y unico en mi procceso de aprendizaje porque a mejorada la forma en como puedo aprovechar y desarrollar mejor mis trabajos y ocupaciones disponiendo y publicando mis proyectos en la plataforma de Github.
 
 >Joven Cristian
