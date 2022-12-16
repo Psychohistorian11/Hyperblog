@@ -1,7 +1,11 @@
 body
 {
+<<<<<<< HEAD
     background: #1e1f24;
     color: #333;
+=======
+    color:rgb(163, 55, 55);
+>>>>>>> footer
     text-align: center;
     font-family: "Times New Roman";
     font-size: 16px;
@@ -17,6 +21,7 @@ body
     margin: 0;
     padding: 0.5em;
 }
+<<<<<<< HEAD
 #cabecera #logo
 {
     width: 40px;
@@ -24,6 +29,9 @@ body
     vertical-align: middle;
 }
 #caberca #tagline
+=======
+#cabecera #tagline
+>>>>>>> footer
 {
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -44,6 +52,18 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
 }
+=======
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}   
+>>>>>>> footer
